@@ -1,2 +1,2 @@
 # KeepBooks
-A simple Python GUI where users can manage details of books.
+A simple Python GUI app where users can manage details of books.
